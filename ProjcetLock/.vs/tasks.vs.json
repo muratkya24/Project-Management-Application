@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "g\u00F6rev-EmployeeDetail.Designer",
+      "appliesTo": "ProjcetLock/Forms/EmployeeDetail.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}
